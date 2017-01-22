@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SwiftTryCatch"
-  s.version          = "1.0.2"
+  s.version          = "1.0.3"
   s.summary          = "Adds try/catch support for Swift."
   s.homepage         = "https://github.com/williamFalcon/SwiftTryCatch"
   s.license          = 'MIT'
