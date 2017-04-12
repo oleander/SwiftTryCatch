@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'https://github.com/oleander/SwiftTryCatch'
   s.license      = 'MIT'
   s.author       = { 'William Falcon' => 'waf2107@columbia.edu', 'Linus Oleander' => 'linus@oleander.io' }
-  s.source       = { git: 'https://github.com/williamFalcon/SwiftTryCatch.git', tag: s.version }
+  s.source       = { git: 'https://github.com/oleander/SwiftTryCatch.git', tag: s.version }
   s.source_files = 'SwiftTryCatch.{h,m}'
   s.platform = :osx, '10.9'
 end
